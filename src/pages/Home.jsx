@@ -152,9 +152,11 @@ function Home() {
         <button type="submit"className={styles.button}>Sign up</button>
         
         <div className={styles.para}>
-         <p>By clicking on Sign up. you agree to Superapp <span style={{color:"#72DB73"}}>Terms and Conditions of Use</span></p>
+         <p>By clicking on Sign up. you agree to Superapp <span style={{color:"#72DB73"}}>
+          Terms and Conditions of Use</span></p>
          <p>To learn more about how Superapp collects, uses, shares and 
-          protects your personal data please head Superapp <span style={{color:"#72DB73"}}>Privacy Policy</span></p>
+          protects your personal data please head Superapp <span style={{color:"#72DB73"}}>
+            Privacy Policy</span></p>
         </div>
         </form>
         
