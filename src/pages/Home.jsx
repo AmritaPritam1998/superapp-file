@@ -83,7 +83,7 @@ function Home() {
       }}>
       <article
       className={styles.article}
-      style={{ backgroundImage: `url(${bg})`}}
+      style={{ backgroundImage: `url(${bg.png})`}}
       >
       <h1 className={styles.header}>Discover new things on Superapp</h1>
       </article>
