@@ -1,0 +1,48 @@
+.article {
+    height: 700px;
+    width:50%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    display: flex;
+    place-items: left;
+    color: #fff;
+}
+.header{
+    color: #fff;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 60px;
+    margin-top: 500px;
+}
+input{
+    width:500px;
+    height:30px;
+    background: #292929;
+    margin-left: 70px;
+    
+}
+label{
+    width:500px;
+    height:30px;
+    background: #292929;
+    margin-left: 70px;  
+}
+button{
+    width:400px;
+    height:50px;
+    margin-left: 120px;
+    background: #72DB73;
+    color: #fff;
+    font-size: 30px;
+}
+.para{
+    color: #fff;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-wrap: wrap;
+
+}
+
+
+
